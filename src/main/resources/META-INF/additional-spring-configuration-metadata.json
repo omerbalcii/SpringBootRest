@@ -1,0 +1,25 @@
+{"properties": [{
+  "name": "myproject.securitylevel",
+  "type": "java.lang.String",
+  "description": "A description for 'myproject.securitylevel'"
+}],
+"hints": [
+    {
+        "name": "myproject.securitylevel",
+        "values": [
+            {
+                "value": "low",
+                "description": "low level."
+            },
+            {
+                "value": "medium",
+                "description": "mid level"
+            },
+            {
+                "value": "high",
+                "description": "high level"
+            }
+        ]
+    }
+	]
+}
